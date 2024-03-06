@@ -1,11 +1,11 @@
-### MEVN Stack with KODEBISAT 2024 🚀
+# MEVN Stack with KODEBISAT 2024 🚀
 
 Welcome to my exciting journey of mastering the MEVN (MongoDB, Express.js, Vue.js, Node.js) stack with the KODEBISAT 2024 curriculum! 🌐💻
 
-#### Overview
+## Overview
 This repository serves as a comprehensive guide to my learning path, organized into modules and folders that align with the KODEBISAT 2024 curriculum. Each section contains valuable resources, code snippets, and hands-on projects to solidify my understanding of the MEVN stack.
 
-#### Modules
+## Modules
 <!-- 1. 📚 Module 1: MongoDB Basics
 Module 1 Repository
 📁 01-introduction-to-mongodb: Introduction to MongoDB
@@ -27,7 +27,7 @@ Module 4 Repository
 📁 02-websockets: Implementing Websockets
 📁 03-restful-api: Building RESTful APIs with Node.js -->
 
-#### Getting Started
+## Getting Started
 To dive into a specific module, navigate to the respective repository linked above. Each module contains detailed READMEs and code examples to guide you through the learning process.
 
 Feel free to explore, contribute, and join me on this exciting MEVN stack learning journey! 🚀✨
