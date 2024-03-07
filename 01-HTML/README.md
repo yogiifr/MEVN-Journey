@@ -34,6 +34,10 @@
 
 
 ## Basic HTML
+- Intro to HTML
+    - HTML - Structure
+    - CSS - Style
+    - Javascript - Behaviour
 
 ## Semantic Syntax
 
