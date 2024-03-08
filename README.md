@@ -13,6 +13,13 @@ This repository serves as a comprehensive guide to my learning path, organized i
 📁 Semantic Syntax \
 📁 Table & Form 
 
+### [2. CSS ️🖼️](/02-CSS/)
+📁 Best Practices \
+📁 Selector \
+📁 Box Model \
+📁 Basic Flexbox \
+📁 Study Case: Pricing Table
+
 
 
 <!-- 1. 📚 Module 1: MongoDB Basics
