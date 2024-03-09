@@ -20,6 +20,12 @@ This repository serves as a comprehensive guide to my learning path, organized i
 📁 Basic Flexbox \
 📁 Study Case: Pricing Table
 
+### [3. BOOTSTRAP ️🖼️](/03-BOOTSTRAP/)
+📁 CSS Framework \
+📁 Study Case: Archeolog Museum Gallery
+
+
+
 
 
 <!-- 1. 📚 Module 1: MongoDB Basics
